@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @sohyun2023
-- 👀 I’m interested in Deep Learning, Machine Learning
-- 🌱 I’m currently learning DL
-- 📫 contact me sosoai9813@gamil.com
+- 👀 I’m interested in Deep Learning, Machine Learning, Medical AI
+- 🌱 I’m currently learning DL in yeardream school
+- 📚 B.Sc. in mechanical and biomedical Engineering(Ewha Womans Univ)
+- 📫 contact me sosoai9813@gmail.com
+- 🩵 ThankYou:)
 
 <!---
 sohyun2023/sohyun2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
