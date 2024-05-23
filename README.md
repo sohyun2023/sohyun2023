@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sohyun2023
 - 👀 I’m interested in Deep Learning, Machine Learning, Medical AI
-- 🌱 I’m currently learning DL in yeardream school
+- 🌱 I’m currently learning DataScience in POSTECH
 - 📚 B.Sc. in mechanical and biomedical Engineering(Ewha Womans Univ)
 - 📫 contact me sosoai9813@gmail.com
 - 🩵 ThankYou:)
