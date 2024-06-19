@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DataScience in POSTECH
 - 📚 B.Sc. Mechanical and biomedical Engineering at Ewha Womans Univ.
 - 📫 contact me kb053339@postech.ac.kr
-- 🩵 ThankYou:)
+- ThankYou:)
 
 <!---
 sohyun2023/sohyun2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
