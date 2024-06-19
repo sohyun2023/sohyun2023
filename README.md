@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sohyun2023
 - 👀 I’m interested in Deep Learning, Machine Learning, Medical AI
 - 🌱 I’m currently learning DataScience in POSTECH
-- 📚 B.Sc. mechanical and biomedical Engineering at Ewha Womans Univ.
+- 📚 B.Sc. Mechanical and biomedical Engineering at Ewha Womans Univ.
 - 📫 contact me kb053339@postech.ac.kr
 - 🩵 ThankYou:)
 
